@@ -140,22 +140,16 @@ status: Active
 
 </div>
 
-### 🛒 Production-grade E-commerce Backend
+### 🛒 Alpha-Commerce — Production-grade E-commerce Backend
 
-> A fully async, scalable e-commerce API engineered for real-world traffic — not just tutorials.
+> Async FastAPI backend with JWT auth, Razorpay payments, Redis caching, Celery queues, and Docker deployment. [Explore the repo →](https://github.com/Vishwam401/E-commerce)
 
-| Layer | Tech | What it does |
-|---|---|---|
-| **API** | FastAPI + GraphQL | REST + GraphQL endpoints; async throughout |
-| **Auth** | JWT + Argon2 | Secure token auth with password hashing |
-| **DB** | PostgreSQL + SQLAlchemy | Async ORM, Alembic migrations |
-| **Cache** | Redis | Cart caching, session store, rate-limit counters |
-| **Queue** | Celery + RabbitMQ | Async email, webhook processing, background jobs |
-| **Payments** | Razorpay + Webhooks | End-to-end payment flow with webhook verification |
-| **Observability** | Sentry + Prometheus | Error tracking + metrics scraping |
-| **Infra** | Docker + GitHub Actions | Containerised, CI-ready |
-
-**APIs built:** Auth · Users · Products · Cart · Orders · Coupons · Inventory · Address · Admin · Webhooks
+**Key engineering decisions:**
+- Dual-token JWT with refresh rotation & Redis blacklist
+- Atomic stock management with row-level locking
+- HMAC-SHA256 webhook verification for Razorpay
+- Coupon engine with per-user tracking & race-condition safety
+- Celery async invoice delivery with auto-retry
 
 ---
 
