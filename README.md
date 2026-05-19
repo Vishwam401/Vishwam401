@@ -29,36 +29,43 @@ name: Vishwam
 location: India 🇮🇳
 role: Backend Engineer
 
+focus: Production-grade systems with real-world traffic patterns
+
 languages:
-  - Python
+  - Python (3.11+)
   - C++
 
-stack:
-  framework: FastAPI
-  database: PostgreSQL
-  cache: Redis
-  queue: Celery + RabbitMQ
-  payments: Razorpay
-  auth: JWT + Argon2
+specialization:
+  - Async API design (FastAPI + asyncpg)
+  - Database architecture (PostgreSQL, SQLAlchemy 2.0)
+  - Distributed caching & session management (Redis)
+  - Payment systems & webhook security (Razorpay, HMAC-SHA256)
+  - Background task processing (Celery + RabbitMQ)
+  - Security engineering (JWT, Argon2, rate limiting, token rotation)
 
-current_project: Production-grade E-commerce API
-  details:
-    - WebSocket order tracking
-    - Redis caching layer
-    - Celery background tasks
-    - Razorpay webhook integration
+production_experience:
+  project: Alpha-Commerce — E-commerce Backend
+  scale: 15+ microservices, 40+ API endpoints
+  highlights:
+    - "Dual-token JWT auth with refresh rotation & theft detection"
+    - "Razorpay payment flow with webhook HMAC verification"
+    - "Atomic stock management with row-level locking"
+    - "Coupon engine with per-user tracking & race-condition safety"
+    - "Celery-powered async invoice delivery"
+    - "Docker-first deployment with Alembic migrations"
 
 learning:
   - Distributed Systems
   - System Design at scale
   - AI / ML exploration
 
-competitive_programming: LeetCode
+competitive_programming: LeetCode (Vishwam1708)
 debug_strategy: print() first, debugger later 🤫
-status:  Active
+status: Active
 
 ```
 
+---
 ---
 
 ## ⚡ Tech Stack
