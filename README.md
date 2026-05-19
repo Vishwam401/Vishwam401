@@ -198,8 +198,5 @@ status:  Active
 </div>
 '''
 
-with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_yaml)
 
-print("✅ README.md saved with CLEAN YAML-style About Me!")
-print(f"Total lines: {len(readme_yaml.splitlines())}")
+
