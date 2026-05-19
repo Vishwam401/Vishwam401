@@ -55,8 +55,8 @@ learning:
 
 competitive_programming: LeetCode
 debug_strategy: print() first, debugger later 🤫
-status: 🔥 Active
-vibe: ☕ Coffee + 🎵 Lo-fi + 💻 Code
+status:  Active
+
 ```
 
 ---
