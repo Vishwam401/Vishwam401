@@ -1,6 +1,4 @@
 
-
-
 <div align="center">
 
 <!-- ── ANIMATED HEADER ── -->
@@ -26,36 +24,39 @@
 
 ## 🧑‍💻 About Me
 
-```bash
-$ whoami
-vishwam
+```yaml
+name: Vishwam
+location: India 🇮🇳
+role: Backend Engineer
 
-$ echo $ROLE
-Backend Engineer
+languages:
+  - Python
+  - C++
 
-$ echo $LOCATION
-India 🇮🇳
+stack:
+  framework: FastAPI
+  database: PostgreSQL
+  cache: Redis
+  queue: Celery + RabbitMQ
+  payments: Razorpay
+  auth: JWT + Argon2
 
-$ echo $LANGUAGES
-Python · C++
+current_project: Production-grade E-commerce API
+  details:
+    - WebSocket order tracking
+    - Redis caching layer
+    - Celery background tasks
+    - Razorpay webhook integration
 
-$ echo $STACK
-FastAPI · PostgreSQL · Redis · Celery · RabbitMQ
+learning:
+  - Distributed Systems
+  - System Design at scale
+  - AI / ML exploration
 
-$ echo $CURRENT_PROJECT
-E-commerce API (WebSockets + Redis + Celery)
-
-$ echo $LEARNING
-Distributed Systems · System Design
-
-$ echo $CP
-LeetCode
-
-$ echo $DEBUG_MODE
-print() first, debugger later 🤫
-
-$ echo $STATUS
-🔥 Active · ☕ Coffee Required · 🐛 Squashing Bugs
+competitive_programming: LeetCode
+debug_strategy: print() first, debugger later 🤫
+status: 🔥 Active
+vibe: ☕ Coffee + 🎵 Lo-fi + 💻 Code
 ```
 
 ---
@@ -64,56 +65,24 @@ $ echo $STATUS
 
 <div align="center">
 
-<!-- ── LANGUAGES ── -->
-### 💻 Languages
+### 💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark&perline=6" />
 </p>
 
-<!-- ── BACKEND & APIS ── -->
-### 🚀 Backend & APIs
+### 🚀 Backend & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,graphql,nodejs&theme=dark&perline=6" />
 </p>
 
-<!-- ── DATABASES ── -->
 ### 🗄️ Databases & Caching
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-CC2927?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark&perline=6" />
 </p>
 
-<!-- ── ASYNC & QUEUES ── -->
-### ⚙️ Async & Message Queues
+### ⚙️ Message Queues & Tools
 <p>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Alembic-6BA3BE?style=for-the-badge&logo=alembic&logoColor=white"/>
-</p>
-
-<!-- ── DEVOPS & TOOLS ── -->
-### 🛠️ DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-</p>
-
-<!-- ── OBSERVABILITY ── -->
-### 📡 Observability & Payments
-<p>
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=blue"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq,docker,git,github,linux,githubactions&theme=dark&perline=6" />
 </p>
 
 </div>
@@ -209,18 +178,15 @@ $ echo $STATUS
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:vishwam.connects@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/vishwam-vaghasiya/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-&nbsp;
+
 <a href="https://github.com/Vishwam401">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -233,7 +199,7 @@ $ echo $STATUS
 '''
 
 with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
-    f.write(final_readme_v4)
+    f.write(readme_yaml)
 
-print("✅ FINAL README.md saved with leetcard.jacoblin.cool (verified API)!")
-print(f"Total lines: {len(final_readme_v4.splitlines())}")
+print("✅ README.md saved with CLEAN YAML-style About Me!")
+print(f"Total lines: {len(readme_yaml.splitlines())}")
