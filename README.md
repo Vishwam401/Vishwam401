@@ -144,26 +144,16 @@ These aren't bugs I hit — they're bugs I *scheduled*. The failure matrix is th
 
 <div align="center">
 
-**languages**
-<br/>
+<b>languages</b><br/>
 <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" alt="python, c++"/>
-
 <br/><br/>
-
-**backend**
-<br/>
+<b>backend</b><br/>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,graphql&theme=dark" alt="fastapi, nodejs, graphql"/>
-
 <br/><br/>
-
-**data**
-<br/>
+<b>data</b><br/>
 <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb&theme=dark" alt="postgres, redis, mongodb"/>
-
 <br/><br/>
-
-**infra & tools**
-<br/>
+<b>infra & tools</b><br/>
 <img src="https://skillicons.dev/icons?i=docker,rabbitmq,linux,git,github,githubactions&theme=dark" alt="docker, rabbitmq, linux, git, github, actions"/>
 
 </div>
