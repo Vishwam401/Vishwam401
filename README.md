@@ -187,9 +187,9 @@ for every dependency:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vishwam401&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9" alt="GitHub stats"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishwam401&theme=github_dark" alt="GitHub stats"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwam401&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9&langs_count=6" alt="Top languages"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vishwam401&theme=github_dark" alt="Top languages by commit"/>
 
 <br/><br/>
 
