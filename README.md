@@ -93,7 +93,7 @@ No Redis. No RabbitMQ. No broker. Just PostgreSQL, `FOR UPDATE SKIP LOCKED`, lea
 
 <div align="center">
 
-<a href="https://alpha-commerce.tech">
+<a href="https://www.alpha-commerce.tech/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=2EA043&center=true&vCenter=true&width=560&lines=%24+curl+-I+https%3A%2F%2Falpha-commerce.tech;HTTP%2F2+200+%E2%80%94+deployed.+not+a+localhost+project.;40%2B+endpoints+%C2%B7+payments+%C2%B7+auth+%C2%B7+real+traffic" alt="alpha-commerce live" />
 </a>
 
