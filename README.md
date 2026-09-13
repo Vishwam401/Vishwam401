@@ -179,7 +179,7 @@ for every dependency:
     under load, what breaks first?
 ```
 
-- **Weekly postmortem ritual** — reading other people's incidents (Cloudflare, Buttondown, incident.io) as a substitute for on-call scars
+- **Weekly postmortem ritual** — reading other people's incidents. (Cloudflare, Buttondown, incident.io) as a substitute for on-call scars
 - **Plan and log are never the same file** — the plan states intent, the log states measured outcome
 - **Measured vs inferred** — every claim in my logs is labeled. "Likely" is not "confirmed"
 
